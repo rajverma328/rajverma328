@@ -1,4 +1,4 @@
-
+[![MasterHead](https://media.tenor.com/QpfVrj1VUg8AAAAC/engine-miata-engine.gif)]
 <h1 align="center">Hi 👋, I'm Raj Verma</h1>
 <h3 align="center">a double major mechanical-electrical engineer on a path to understand how stuff works</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif">
