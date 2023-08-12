@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raj Verma</h1>
 <h3 align="center">a double major mechanical-electrical engineer on a path to understand how stuff works</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://cliply.co/wp-content/uploads/2019/05/371905140_MEET_ROBOT_400px.gif">
+<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajverm328&label=Profile%20views&color=0e75b6&style=flat" alt="rajverm328" /> </p>
 
